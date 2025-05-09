@@ -10,8 +10,6 @@ import org.testng.annotations.Test;
 
 
 public class UITest {
-
-	
 	@Parameters("Browser")
 	@Test
 	public void startbrowser(String browserName)
