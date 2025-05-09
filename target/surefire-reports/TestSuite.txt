@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: UITest
+Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.97 s -- in UITest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.212 s - in TestSuite
