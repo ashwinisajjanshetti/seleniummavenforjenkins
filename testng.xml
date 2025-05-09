@@ -6,6 +6,5 @@
     <classes>
       <class name="UITest"/>
     </classes>
-    
   </test> <!-- Test -->
 </suite> <!-- Suite -->
