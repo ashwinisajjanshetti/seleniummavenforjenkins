@@ -6,9 +6,6 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
-
-
-
 public class UITest {
 	@Parameters("Browser")
 	@Test
